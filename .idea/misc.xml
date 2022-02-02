@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/New/AppTask/app/src/main/res/font/average.xml" value="0.21666666666666667" />
         <entry key="..\:/New/AppTask/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/New/AppTask/app/src/main/res/layout/activity_recyclerview.xml" value="0.1" />
+        <entry key="..\:/New/AppTask/app/src/main/res/layout/item.xml" value="0.18645833333333334" />
         <entry key="..\:/New/AppTask/app/src/main/res/mipmap-anydpi-v26/ic_launcher_new.xml" value="0.1" />
         <entry key="..\:/New/AppTask/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round_new.xml" value="0.1" />
       </map>

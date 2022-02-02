@@ -2,4 +2,5 @@
     <string name="app_name">App Task</string>
     <string name="print">print</string>
     <string name="hello_mostafa">Hello Mostafa!</string>
+    <string name="simple_recyclerview" translatable="false">Simple Recyclerview</string>
 </resources>
