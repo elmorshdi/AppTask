@@ -3,4 +3,10 @@
     <string name="print">print</string>
     <string name="hello_mostafa">Hello Mostafa!</string>
     <string name="simple_recyclerview" translatable="false">Simple Recyclerview</string>
+    <string name="person_image">person Image</string>
+    <string name="mostafa_elM">Mostafa Elmorshdi</string>
+    <string name="wednesday_18_40_pm">Wednesday - 18:40 PM</string>
+    <string name="save_image">save ic</string>
+    <string name="post_body">I’m an Fresh Android developer with a strong problem-solving skill, I’m looking to grow and learn in android development, I’m fast learning with the ability to work under stress in multi projects at the same time.</string>
+    <string name="share">Share</string>
 </resources>

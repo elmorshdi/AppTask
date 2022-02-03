@@ -23,12 +23,12 @@ class RecyclerviewAdapter(private val list: List<String>) : RecyclerView.Adapter
 }
 
 class ItemViewHolder(inflater: LayoutInflater, parent: ViewGroup) :
-    RecyclerView.ViewHolder(inflater.inflate(R.layout.item, parent, false)) {
+    RecyclerView.ViewHolder(inflater.inflate(R.layout.post_item, parent, false)) {
     private var mTitleView: TextView? = null
 
 
     init {
-        mTitleView = itemView.findViewById(R.id.tV_name)
+        mTitleView = itemView.findViewById(R.id.tv_name)
     }
 
     fun bind(item: String) {
